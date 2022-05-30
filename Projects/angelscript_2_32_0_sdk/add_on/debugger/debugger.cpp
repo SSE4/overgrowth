@@ -3,6 +3,7 @@
 #include <sstream>   // stringstream
 #include <stdlib.h>  // atoi
 #include <assert.h>  // assert
+#include <string.h>  // strlen
 
 using namespace std;
 
